@@ -8,4 +8,4 @@
     openAi
 
 # Автор
-    Atis
+Atis
